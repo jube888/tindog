@@ -155,17 +155,17 @@ font-weight: 900;
   color: white;
 }
 
-/* .black-text {
+.black-text {
   color: white;
   font-family: "Montserrat";
   font-size: 3.5rem;
   font-weight: 900;
-} */
+}
 
 
-/* .icon-foot {
+.icon-foot {
   margin: 20px 10px;
-} */
+}
 
 @media (max-width: 1028px) {
   #title {
